@@ -6,4 +6,7 @@
 
 Curso de iniciación a Python celebrado en la Escuela Técnica Superior de Ingeniería Aeronáutica y del Espacio (Universidad Politécnica de Madrid) 
 
+Los notebooks se pueden previsualizar a través de 
+http://nbviewer.ipython.org/github/AeroPython/Curso_AeroPython/tree/master/Notebooks/
+
 Marzo de 2014
