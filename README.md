@@ -10,3 +10,7 @@ Los notebooks se pueden previsualizar a través de
 http://nbviewer.ipython.org/github/AeroPython/Curso_AeroPython/tree/master/Notebooks/
 
 Marzo de 2014
+
+---
+
+El curso se celebrará de nuevo del 13 al 30 de octubre de 2014 por lo que se realizarán algunos cambios en este repositorio. El curso en su estado original se puede consultar en el tag v1
