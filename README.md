@@ -1,6 +1,6 @@
 # Curso AeroPython ETSIAE
 
-<img src="./static/aeropython_name_mini.png" style="width: 300px;"/>
+<img src="./static/aeropython_name.png" style="width:300px;"/>
 
 ## [Juan Luis Cano](http://es.linkedin.com/in/juanluiscanor) ([@Pybonacci](https://twitter.com/Pybonacci)) y [Álex Sáez](https://www.linkedin.com/in/alejandrosaezm) ([@Alex__S12](https://twitter.com/Alex__S12))
 
