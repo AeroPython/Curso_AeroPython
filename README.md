@@ -4,12 +4,13 @@
 
 ## [Juan Luis Cano](http://es.linkedin.com/in/juanluiscanor) ([@Pybonacci](https://twitter.com/Pybonacci)) y [Álex Sáez](https://www.linkedin.com/in/alejandrosaezm) ([@Alex__S12](https://twitter.com/Alex__S12))
 
-Curso de iniciación a Python celebrado en la Escuela Técnica Superior de Ingeniería Aeronáutica y del Espacio (Universidad Politécnica de Madrid) 
+__Curso de iniciación a Python celebrado en la Escuela Técnica Superior de Ingeniería Aeronáutica y del Espacio (Universidad Politécnica de Madrid)__
 
 Primera edición: Marzo 2014 (tag v1.0)
-Segunda edción: Octubre 2014
 
-Los notebooks se pueden previsualizar a través de 
+Segunda edición: Octubre 2014
+
+Los notebooks se pueden previsualizar a través de
 http://nbviewer.ipython.org/github/AeroPython/Curso_AeroPython/tree/master/Notebooks/
 
 El curso se celebrará de nuevo entre el 13 y el 30 de octubre, por lo que el material se encontrará en constante cambio durante esas fechas.
