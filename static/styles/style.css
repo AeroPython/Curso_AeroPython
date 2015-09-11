@@ -79,7 +79,7 @@ div.text_cell_render{
     font-weight: 600;
     font-size: 35pt;
     line-height: 100%;
-    color: #234765;
+    color: #000000;
     margin-bottom: 0.1em;
     margin-top: 0.3em;
     display: block;
@@ -92,7 +92,7 @@ div.text_cell_render{
     margin-bottom: 0.1em;
     margin-top: 0.3em;
     font-style: regular;
-    color: #234765;
+    color: #2c6391;
 }	
 
 .text_cell_render h3 {
@@ -102,7 +102,7 @@ div.text_cell_render{
     margin-bottom: 0.1em;
     margin-top: 0.3em;
     font-style: regular;
-    color:  #376f9e;
+    color:  #387eb8;
 }
 
 .text_cell_render h4 {    /*Use this for captions*/
@@ -112,7 +112,7 @@ div.text_cell_render{
     margin-bottom: 0.1em;
     margin-top: 0.3em;
     font-style: regular;
-    color:  #376f9e;
+    color:  #5797cc;
 }
 
 .text_cell_render h5 {  /*Use this for small titles*/
