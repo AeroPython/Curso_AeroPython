@@ -8,6 +8,12 @@ __Curso de iniciación a Python celebrado en la Escuela Técnica Superior de Ing
 
 __Si acabas de llegar__, no tienes instalado Python o no conoces el Notebook de IPython te recomendamos que leas [esta introducción](http://nbviewer.ipython.org/github/AeroPython/Curso_AeroPython/blob/master/notebooks_completos/Clase0_Bienvenido.ipynb). En ella aprenderás cómo descargar y utilizar el material del curso.
 
+También puedes probar a ejecutar los notebooks online desde tu navegador (¡sin instalar nada!):
+
+[Notebooks interactivos online:  ![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/AeroPython/Curso_AeroPython)
+
+(esto es una versión demo y en fase beta, no utilices esta opción para guardar tu trabajo)
+
 __Si sólo quieres echar un vistazo__, puedes visualizar los notebooks de cada clase en:
 http://nbviewer.ipython.org/github/AeroPython/Curso_AeroPython/tree/master/notebooks_completos/
 
