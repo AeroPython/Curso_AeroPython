@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "38",
+               "short_name" : "38",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Sur del Aeropuerto de Barajas",
+               "short_name" : "Av Sur del Aeropuerto de Barajas",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "Madrid",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Comunidad de Madrid",
+               "short_name" : "Comunidad de Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "28042",
+               "short_name" : "28042",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av Sur del Aeropuerto de Barajas, 38, 28042 Madrid, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.4510291,
+                  "lng" : -3.577787
+               },
+               "southwest" : {
+                  "lat" : 40.4510213,
+                  "lng" : -3.5778027
+               }
+            },
+            "location" : {
+               "lat" : 40.4510213,
+               "lng" : -3.577787
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4523741802915,
+                  "lng" : -3.576445869708498
+               },
+               "southwest" : {
+                  "lat" : 40.4496762197085,
+                  "lng" : -3.579143830291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjtBdiBTdXIgZGVsIEFlcm9wdWVydG8gZGUgQmFyYWphcywgMzgsIDI4MDQyIE1hZHJpZCwgRXNwYcOxYQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
