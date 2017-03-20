@@ -1,0 +1,16 @@
+name: aeropython36
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3.6
+- ipywidgets>=6.0
+- jupyter>=1.0
+- numba
+- numpy
+- pandas
+- scipy
+- xlrd
+- pip:
+  - line-profiler>=2.0
+
