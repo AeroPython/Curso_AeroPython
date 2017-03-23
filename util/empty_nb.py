@@ -2,7 +2,7 @@ import nbformat
 
 
 def empty_notebook(fname):
-    with open(fname, 'r') as fp:
+    with open(fname, 'r', encoding='utf-8') as fp:
         nb = nbformat.read(fp, as_version=4)
 
     for cell in nb.cells:
@@ -25,5 +25,5 @@ if __name__ == '__main__':
 
     for fname in glob.glob("notebooks_completos/*.ipynb"):
         new_fname = os.path.join("notebooks_vacios", os.path.basename(fname))
-        with open(new_fname, 'w') as fp:
+        with open(new_fname, 'w', encoding='utf-8') as fp:
             nbformat.write(empty_notebook(fname), fp)
