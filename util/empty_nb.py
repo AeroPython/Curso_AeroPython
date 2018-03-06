@@ -23,6 +23,8 @@ if __name__ == '__main__':
     import glob
     import os.path
 
+    if not os.path.isdir("notebooks_vacios"):
+        os.makedirs("notebooks_vacios")
     for fname in glob.glob("notebooks_completos/*.ipynb"):
         new_fname = os.path.join("notebooks_vacios", os.path.basename(fname))
         with open(new_fname, 'w', encoding='utf-8') as fp:
