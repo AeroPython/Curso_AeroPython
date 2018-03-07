@@ -6,6 +6,7 @@ dependencies:
 - python=3.6
 - ipywidgets>=6.0
 - jupyter>=1.0
+- matplotlib
 - numba
 - numpy
 - pandas
