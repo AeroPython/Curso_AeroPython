@@ -27,18 +27,18 @@ if __name__ == '__main__':
     import glob
     import os.path
     
-    if os.path.isdir("notebooks_completos"):
-        prepath = ''
-    elif os.path.isdir("../notebooks_completos"):
-        prepath = '../'
+    if os.path.isdir('notebooks_completos'):
+        prepath = '.'
+    elif os.path.isdir(os.path.join('..','notebooks_completos')):
+        prepath = '..'
     else: raise OSError('Carpeta de notebooks no encontrada')
         
-    vacios_path = prepath + "notebooks_vacios"
-    completos_path = prepath + "notebooks_completos"
+    vacios_path = os.path.join(prepath , 'notebooks_vacios')
+    completos_path = os.path.join(prepath , 'notebooks_completos')
 
     if not os.path.isdir(vacios_path):
         os.makedirs(vacios_path)
-    for fname in glob.glob(completos_path + '/*.ipynb'):
+    for fname in glob.glob(os.path.join(completos_path , '*.ipynb')):
         new_fname = os.path.join(vacios_path, os.path.basename(fname))
         with open(new_fname, 'w', encoding='utf-8') as fp:
             nbformat.write(empty_notebook(fname), fp)
