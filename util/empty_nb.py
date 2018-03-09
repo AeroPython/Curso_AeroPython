@@ -10,6 +10,10 @@ def empty_notebook(fname):
             source = cell['source']
             if '# aeropython: preserve' in source:
                 continue
+            elif 'Image(url=' in source:
+                continue
+            elif 'HTML(' in source:
+                continue
             else:
                 # Don't preserve cell
                 cell['outputs'].clear()
@@ -22,10 +26,22 @@ def empty_notebook(fname):
 if __name__ == '__main__':
     import glob
     import os.path
+    
+    if os.path.isdir("notebooks_completos"):
+        prepath = ''
+    elif os.path.isdir("../notebooks_completos"):
+        prepath = '../'
+    else: raise OSError('Carpeta de notebooks no encontrada')
+        
+    vacios_path = prepath + "notebooks_vacios"
+    completos_path = prepath + "notebooks_completos"
 
-    if not os.path.isdir("notebooks_vacios"):
-        os.makedirs("notebooks_vacios")
-    for fname in glob.glob("notebooks_completos/*.ipynb"):
-        new_fname = os.path.join("notebooks_vacios", os.path.basename(fname))
+    if not os.path.isdir(vacios_path):
+        os.makedirs(vacios_path)
+    for fname in glob.glob(completos_path + '/*.ipynb'):
+        new_fname = os.path.join(vacios_path, os.path.basename(fname))
         with open(new_fname, 'w', encoding='utf-8') as fp:
             nbformat.write(empty_notebook(fname), fp)
+            
+            
+            
