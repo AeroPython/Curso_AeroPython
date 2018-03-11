@@ -17,20 +17,36 @@ También puedes probar a ejecutar los notebooks online desde tu navegador (¡sin
 __Si sólo quieres echar un vistazo__, puedes visualizar los notebooks de cada clase en:
 http://nbviewer.jupyter.org/github/AeroPython/Curso_AeroPython/tree/master/notebooks_completos/
 
-__[Primera edición](http://blogs.upm.es/softwarelibre/2014/07/14/curso-de-python-en-la-upm-una-oportunidad-para-el-software-libre/):__ marzo 2014 (tag v1.0)
+__[Primera edición](http://blogs.upm.es/softwarelibre/2014/07/14/curso-de-python-en-la-upm-una-oportunidad-para-el-software-libre/):__ marzo 2014 ETSIA (tag v1.0)
 * [Juan Luis Cano](http://es.linkedin.com/in/juanluiscanor)
 * [Alejandro Sáez Mollejo](https://www.linkedin.com/in/alejandrosaezm/)
 
-__Segunda edición:__ octubre 2014
+__Segunda edición:__ octubre 2014 ETSIA
 * [Juan Luis Cano](http://es.linkedin.com/in/juanluiscanor)
 * [Alejandro Sáez Mollejo](https://www.linkedin.com/in/alejandrosaezm/)
 * [Alberto Lorenzo Marquez](https://www.linkedin.com/in/alberto-lorenzo-m%C3%A1rquez-9317a6150/)
 
-__Tercera edición:__ abril de 2015
+__Tercera edición:__ abril de 2015 ETSIA
+* [Juan Luis Cano](http://es.linkedin.com/in/juanluiscanor)
+* [Alberto Lorenzo Marquez](https://www.linkedin.com/in/alberto-lorenzo-m%C3%A1rquez-9317a6150/)
+* [Siro Moreno Martín](https://www.linkedin.com/in/siro-moreno-martin/)
+* [Óscar Lozano Rosales](https://www.linkedin.com/in/olrosales/)
+* [Daniel López Padilla](https://www.linkedin.com/in/daniel-l%C3%B3pez-padilla-798807a7/)
+* [Carlos Dorado Cárdenas](https://www.linkedin.com/in/carlosdoradocardenas/)
+
+__Cuarta edición:__ abril de 2015 URJ
+* [Juan Luis Cano](http://es.linkedin.com/in/juanluiscanor)
+* [Alberto Lorenzo Marquez](https://www.linkedin.com/in/alberto-lorenzo-m%C3%A1rquez-9317a6150/)
+* [Siro Moreno Martín](https://www.linkedin.com/in/siro-moreno-martin/)
+* [Óscar Lozano Rosales](https://www.linkedin.com/in/olrosales/)
+* [Daniel López Padilla](https://www.linkedin.com/in/daniel-l%C3%B3pez-padilla-798807a7/)
+* [Carlos Dorado Cárdenas](https://www.linkedin.com/in/carlosdoradocardenas/)
+
+__Quinta edición:__ octubre de 2015 UC3M
 * [Juan Luis Cano](http://es.linkedin.com/in/juanluiscanor)
 * [Siro Moreno Martín](https://www.linkedin.com/in/siro-moreno-martin/)
 
-__Cuarta edición:__ marzo de 2018
+__Sexta edición:__ marzo de 2018 ETSIAE
   * [Alejandro Sáez Mollejo](https://www.linkedin.com/in/alejandrosaezm/)
   * [Mabel Delgado Babiano](https://www.linkedin.com/in/mabeldelgadob/)
   * [Siro Moreno Martín](https://www.linkedin.com/in/siro-moreno-martin/)
