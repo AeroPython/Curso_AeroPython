@@ -6,10 +6,12 @@ dependencies:
 - python=3.6
 - ipywidgets>=6.0
 - jupyter>=1.0
+- matplotlib
 - numba
 - numpy
 - pandas
 - scipy
+- sympy
 - xlrd
 - pip:
   - line-profiler>=2.0
