@@ -16,7 +16,7 @@
 - El primer paso consiste en clonar el rpeositorio oficial del curso: https://github.com/AeroPython/Curso_AeroPython
 
 ```
-$ git clone git@github.com:AeroPython/Curso_AeroPython.git
+$ git clone https://github.com/AeroPython/Curso_AeroPython.git
 ```
 
 - Si ya clonaste el material en otra ocasión o quieres actualizarlo debes ejecutar:
