@@ -1,0 +1,127 @@
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro|Josefin+Sans:400,700,400italic|Ubuntu+Condensed' rel='stylesheet' type='text/css'>
+
+
+<style>
+
+#notebook_panel { /* main background */
+    background: #f7f7f7;
+}
+
+#notebook li { /* More space between bullet points */
+    margin-top:0.5em;
+}
+
+div.cell { /* set cell width */
+    width: 900px;
+}
+
+div #notebook { /* centre the content */
+    background: #fff; /* white background for content */
+    width: 1000px;
+    margin: auto;
+    padding-left: 0em;
+}
+
+/* Put a solid color box around each cell and its output, visually linking them*/
+div.cell.code_cell {
+    font-family: 'Source Sans Pro', sans-serif;
+    width: 900px;
+}
+
+div.text_cell_render{
+    font-family: 'Josefin Sans', serif;
+    font-size: 18pt;
+}
+
+
+/* Formatting for header cells */
+.text_cell_render h1, .text_cell_render h2, .text_cell_render h3,
+.text_cell_render h4, .text_cell_render h5 {
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+.text_cell_render h1 {    /*Use this for Title*/
+    font-weight: 500;
+    font-size: 38pt;
+    line-height: 100%;
+    color: #252525;
+    text-align: center;
+    margin-bottom: 0.1em;
+    margin-top: 0.3em;
+    display: block;
+}
+
+.text_cell_render h2 {    /*Use this for Subtitle*/
+    margin-top:16px;
+    font-size: 32pt;
+    font-weight: 500;
+    margin-bottom: 0.1em;
+    margin-top: 0.3em;
+    text-align: center;
+    font-style: regular;
+    color: #007EAF;
+}	
+
+.text_cell_render h3 {   /*Date*/ 
+    font-size: 26pt;
+    font-weight: 200;
+    text-align: center;
+    margin-bottom: 0.1em;
+    margin-top: 0.3em;
+    font-style: regular;
+    color:  #007EAF;
+}
+
+.text_cell_render h4 {    /*Sections*/ 
+    font-size: 28pt;
+    font-weight: 200;
+    text-align: left;
+    margin-bottom: 0.1em;
+    margin-top: 0.3em;
+    font-style: regular;
+    color:  #252525;
+}
+
+.text_cell_render h5 {    /*Subsections*/
+    font-size: 20pt;
+    font-weight: 300;
+    font-style: italic;
+    margin-bottom: .1em;
+    margin-top: 0.8em;
+    display: block;
+    color:  #252525;
+}
+
+.text_cell_render h6 {    /*Author*/
+    font-family: 'Ubuntu Condensed', sans-serif;
+    font-weight: 100;
+    font-size: 17pt;
+    line-height: 100%;
+    color: #252525;
+    text-align: right;
+    margin-bottom: 1px;
+    margin-top: 3px;
+}
+
+.CodeMirror{
+        font-family: 'Duru Sans', sans-serif;
+        font-size: 100%;
+}
+
+</style>
+<script>
+    MathJax.Hub.Config({
+                        TeX: {
+                           extensions: ["AMSmath.js"],
+                           equationNumbers: { autoNumber: "AMS", useLabelIds: true}
+                           },
+                tex2jax: {
+                    inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                    displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
+                },
+                displayAlign: 'center', // Change this to 'center' to center equations.
+                "HTML-CSS": {
+                    styles: {'.MathJax_Display': {"margin": 4}}
+                }
+        });
+</script>
