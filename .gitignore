@@ -217,3 +217,7 @@ pip-log.txt
 #Ipython Notebook
 # .ipynb_checkpoints (added by alex s)
 .ipynb_checkpoints/
+
+
+# PyCharm
+*.idea
