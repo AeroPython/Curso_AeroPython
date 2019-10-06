@@ -38,6 +38,9 @@ __Cuarta edición:__ marzo de 2018
 
 __Quinta edición:__ noviembre de 2018
 
+__Sexta edición:__ abril de 2019
+
+__Séptima edición:__ octubre de 2019
 
 
 ## Sigue aprendiendo
