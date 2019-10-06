@@ -8,7 +8,7 @@ def empty_notebook(fname):
     for cell in nb.cells:
         if cell['cell_type'] == 'code':
             source = cell['source']
-            if '# aeropython: preserve' in source:
+            if 'preserve' in source:
                 continue
             elif 'Image(url=' in source:
                 continue
