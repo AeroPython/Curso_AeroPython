@@ -4,7 +4,7 @@
 
 __Curso de Python orientado a la ingeniería__
 
-__Si acabas de llegar__, no tienes instalado Python o no conoces el Notebook de IPython te recomendamos que leas [esta introducción](http://nbviewer.jupyter.org/github/AeroPython/Curso_AeroPython/blob/master/notebooks_completos/Clase0_Bienvenido.ipynb). En ella aprenderás cómo descargar y utilizar el material del curso.
+__Si acabas de llegar__, no tienes instalado Python o no conoces el Notebook de IPython te recomendamos que leas [esta introducción](https://github.com/AeroPython/Curso_AeroPython/blob/master/notebooks_completos/000-Bienvenido.ipynb). En ella aprenderás cómo descargar y utilizar el material del curso.
 
 También puedes probar a ejecutar los notebooks online desde tu navegador (¡sin instalar nada!):
 
