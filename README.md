@@ -4,6 +4,11 @@
 
 __Curso de Python orientado a la ingeniería__
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+*⚠️ Este curso ya no está mantenido, y queda disponible en abierto para quienes quieran aprovechar el material.
+Puedes leer más sobre [el fin de AeroPython en este artículo](https://www.linkedin.com/pulse/aeropython-fin-de-ciclo-juan-luis-cano-rodr%C3%ADguez/).*
+
 __Si acabas de llegar__, no tienes instalado Python o no conoces el Notebook de IPython te recomendamos que leas [esta introducción](https://nbviewer.jupyter.org/github/AeroPython/Curso_AeroPython/blob/master/notebooks_completos/000-Bienvenido.ipynb). En ella aprenderás cómo descargar y utilizar el material del curso.
 
 También puedes probar a ejecutar los notebooks online desde tu navegador (¡sin instalar nada!):
